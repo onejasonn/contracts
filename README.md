@@ -137,4 +137,4 @@ public issues.
 
 [MIT](LICENSE)
 
-## On-Chain Governance for Parameters\n\nCritical parameters such as FEE_BPS and treasury allocation ratios should require a multisig governance vote to change. Direct admin writes bypass the treasury M-of-N control and create a single point of compromise.
+## On-Chain Governance for Parameters\n\nCritical parameters such as FEE_BPS should require a multisig governance vote. Direct admin writes bypass treasury M-of-N control.
